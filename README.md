@@ -224,10 +224,6 @@ Le QDevice améliore le fonctionnement du quorum lors de la perte d'un nœud, ma
 
 Les tests de haute disponibilité portent sur la défaillance simulée d'un nœud Proxmox.
 
-## 11. Licence
-
-Licence à définir (par exemple MIT).
-
 ## 12. Auteurs
 
 - Kanza Lbasri
